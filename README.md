@@ -18,7 +18,7 @@
 [Stackoverflow](https://stackoverflow.com/users/18389276/mücahid-Özçelik) | [Hackerrank](https://www.hackerrank.com/mucahidozcelik )
 
 
-[![Mücahid's github stats](https://github-readme-stats.vercel.app/api?username=mucahidozcelik)](https://github.com/berkayalan/github-readme-stats)
+[![Mücahid's github stats](https://github-readme-stats.vercel.app/api?username=mucahidozcelik)](https://github.com/mucahidozcelik/github-readme-stats)
 
 
 ![Mücahid's Profile Views](https://komarev.com/ghpvc/?username=mucahidozcelik&color=green)
