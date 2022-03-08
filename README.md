@@ -6,7 +6,7 @@
 
 ✦ MSc in Software Engineering
 
-✦ Trying to develop myself Data Science & Machine Learning
+✦ Trying to develop myself at Data Science & Machine Learning
 
 
  📩 My e-mail adress :  mucahidozcelik@outlook.com.tr
