@@ -2,14 +2,13 @@
 
 # I am a Data Scientist 
 
-✦ Currently learning Data Engineer & Big Data 
+✦ 🔭 I love researching, learning and sharing.
 
-✦ MSc in Software Engineering
+✦ 🌱 Currently learning Data Engineer & Big Data 
 
-✦ Trying to develop myself at Data Science & Machine Learning
+✦ 🚀 Trying to develop myself at Data Science & Machine Learning
 
-
- 📩 My e-mail adress :  mucahidozcelik@outlook.com.tr
+✦ 📫 My e-mail adress :  mucahidozcelik@outlook.com.tr
 
 
 
